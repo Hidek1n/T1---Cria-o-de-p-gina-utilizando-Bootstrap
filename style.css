@@ -9,4 +9,27 @@
     justify-content: center;
     align-items: center;
     padding-top: 1%;
+    text-decoration: underline;
+}
+
+.boxPrincipal{
+    border: solid;
+    height: 100vh;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.conteudo{
+    display: flex;
+    width: auto;
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    height: 50vh;
 }
