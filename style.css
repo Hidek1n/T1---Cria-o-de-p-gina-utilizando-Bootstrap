@@ -1,0 +1,12 @@
+.barraInicio{
+    border: solid; 
+    width: 100vw;
+    height: 10vh;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+}
