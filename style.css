@@ -21,6 +21,12 @@
     /* align-items: center; */
 }
 
+@media (max-width:  768px) {
+    .boxPrincipal{
+        height: auto;
+    }
+}
+
 .boxSecundaria{
     height: auto;
     width: 25vw;
